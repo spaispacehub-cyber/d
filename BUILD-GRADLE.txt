@@ -1,0 +1,18 @@
+AHBots - Gradle build
+=====================
+
+The project is now Gradle-based.
+
+Requirements:
+- Java 21 installed on Windows
+- Gradle installed OR a Gradle Wrapper generated for this project
+
+Build:
+  gradle build
+
+Output:
+  build/libs/AHBots-1.0.0.jar
+
+Important:
+The current AHBots code integrates with ZelAuction but requires a real online Player
+as the seller because ZelAuction's createListing API takes Player.

@@ -1,0 +1,1 @@
+AHBots full economy preset\nTarget: roughly 50% of a Donut-style economy.\nElytra: 242.5M\nNetherite Block: 24M\nNetherite Ingot: 12M\nEnchanted Golden Apple: 150K\nThese are starting values, not exact live Donut prices.\n

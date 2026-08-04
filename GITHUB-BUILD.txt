@@ -1,0 +1,15 @@
+GITHUB ACTIONS BUILD
+
+1. Create a new GitHub repository.
+2. Upload everything inside this folder (including .github/workflows/build.yml).
+3. Open the repository -> Actions -> Build AHBots.
+4. Click Run workflow -> Run workflow.
+5. Wait for the green check.
+6. Open the completed workflow run.
+7. Under Artifacts, click AHBots to download the ZIP.
+8. Extract it and use AHBots-1.0.0.jar.
+
+The workflow installs Java 21 and Gradle automatically. You do NOT need Java,
+Maven, or Gradle installed on your own PC for the build.
+
+Target: Paper 1.21.11 + ZelAuction 1.4-rc.1.
